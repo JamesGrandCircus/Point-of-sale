@@ -18,5 +18,10 @@ namespace point_of_sale
         {
             // the logic for adding a new shopping cart item.
         }
+
+        void RemoveItem(string shoppingCartItem) 
+        {
+            // logic for removing items from shopping cart
+        }    
     }
 }
