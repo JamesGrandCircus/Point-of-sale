@@ -9,6 +9,10 @@ namespace point_of_sale
     internal class ShoppingCart
     {
         // I made a shopping cart, look at me mah!
+        void UpdateCart(string updatedCartItem)
+        {
+            // updated the cart
+        }
 
         void AddItem(string shoppingCartItem)
         {
